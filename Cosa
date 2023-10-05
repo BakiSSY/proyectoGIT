@@ -1,0 +1,37 @@
+1.- Programa que demana un enter, i li suma el seu dígit més a la dreta. Per exemple si introdueix el 463 el programa mostrarà 466 (463 + 3).
+
+2.- Programa que demane un nombre enter i determine si es parell, si acaba en 3 o 5 (unitats), i si té 2 xifres.
+
+
+3.- Programa que demane un caràcter a l’usuari i determine si és una lletra majúscula, i és una xifra numèrica, o si és una lletra de l’alfabet.
+(*)PISTA: Per a llegir un caracter per teclat utilitza la instrucció teclat.next().charAt(0)
+
+
+
+4.- Programa que demane un número de mes, i comprove si correspon a un mes de 30 dies.
+
+
+
+5.- Programa que demane un nombre enter de quatre xifres i determine si és capicua.
+
+
+
+6.- EL JOC DE L'ANIVERSARI.
+Es tracta d'un joc el qual mitjançant operacions matemàtiques el programa endevina el mes i any del teu aniversari. El programa ha de mostrar:
+Utilitzant paper i llapis, fes els següents càlculs:
+1. Determina el teu mes de naixement (gener=1, febrer=2...)
+2. Multiplica eixe número per 5.
+3. Afig 6 al número resultant.
+4. Multiplica eixe número per 4.
+5. Afig 9 al número resultant.
+6. Multiplica eixe número per 5.
+7. Afig el teu dia de naixement al número resultant.
+Introdueix el número que has obtingut:
+El teu aniversari es el: DD/MM
+
+(*) PISTA: Resta-li 165 al número que introdueix l'usuari. El número resultant dividit entre 100 (divisió entera) serà el mes de naixement, i el mòdul de dividir entre 100 serà el dia de naixement.
+
+7.- Crea una aplicació de control de despeses per a ajudar a examinar els patrons de despeses de l'usuari. La aplicació ha de demanar a l'usuari la quantitat que diners que ha gastat en menjar, roba, oci i habitatge, per a finalment mostrar una taula amb el percentatge de despeses de cada categoria.
+
+
+
