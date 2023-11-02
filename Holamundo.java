@@ -1,2 +1,2 @@
-Hola git
+Hola GIT
 
